@@ -1,4 +1,4 @@
-# Banking_Clurn__Predection
+# Banking_Churn__Predection
 
 ### Step 1: 
 
