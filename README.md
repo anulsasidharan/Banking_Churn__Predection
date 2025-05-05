@@ -1,4 +1,4 @@
-# Banking_Churn__Predection
+# Banking_Customer_Churn_Predection
 
 ### Step 1: 
 
