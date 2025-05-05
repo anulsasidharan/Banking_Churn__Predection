@@ -1,7 +1,10 @@
 # 🏦 Banking Customer Churn Prediction
 #### This project aims to predict customer churn in the banking sector using Deep Learning techniques(ANN using Tensorflow). By analyzing customer behavior, transaction patterns, and demographic data, the model identifies customers who are likely to leave the bank. The objective is to help financial institutions proactively retain high-value clients and reduce attrition rates.
 
-<img src="image.png" alt="alt text" width="35%" height="auto"/>
+
+<p align="center">
+  <img src="image.png" alt="alt text" width="35%">
+</p>
 
 ## 🔍 Key Features
 
